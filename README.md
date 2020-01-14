@@ -60,4 +60,4 @@ Project Organization
 
 * Es necesario crear el .env
 * el .gitignore viene listo
-* La carpeta data se descarga pero no se sube (en caso de querer subilar, comentar .gitignore)
+* La carpeta `data` se descarga pero no se sube (en caso de querer subilar, comentar .gitignore)
